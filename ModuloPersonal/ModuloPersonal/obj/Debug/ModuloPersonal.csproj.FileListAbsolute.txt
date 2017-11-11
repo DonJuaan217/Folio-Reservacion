@@ -1,0 +1,32 @@
+c:\users\carlos reyes\documents\visual studio 2015\Projects\ModuloPersonal\ModuloPersonal\bin\Debug\ModuloPersonal.exe.config
+c:\users\carlos reyes\documents\visual studio 2015\Projects\ModuloPersonal\ModuloPersonal\obj\Debug\ModuloPersonal.csprojResolveAssemblyReference.cache
+c:\users\carlos reyes\documents\visual studio 2015\Projects\ModuloPersonal\ModuloPersonal\obj\Debug\ModuloPersonal.Form1.resources
+c:\users\carlos reyes\documents\visual studio 2015\Projects\ModuloPersonal\ModuloPersonal\obj\Debug\ModuloPersonal.Properties.Resources.resources
+c:\users\carlos reyes\documents\visual studio 2015\Projects\ModuloPersonal\ModuloPersonal\obj\Debug\ModuloPersonal.VentanaReservaciones.resources
+c:\users\carlos reyes\documents\visual studio 2015\Projects\ModuloPersonal\ModuloPersonal\obj\Debug\ModuloPersonal.csproj.GenerateResource.Cache
+c:\users\carlos reyes\documents\visual studio 2015\Projects\ModuloPersonal\ModuloPersonal\bin\Debug\ModuloPersonal.exe
+c:\users\carlos reyes\documents\visual studio 2015\Projects\ModuloPersonal\ModuloPersonal\bin\Debug\ModuloPersonal.pdb
+c:\users\carlos reyes\documents\visual studio 2015\Projects\ModuloPersonal\ModuloPersonal\bin\Debug\MySql.Data.dll
+c:\users\carlos reyes\documents\visual studio 2015\Projects\ModuloPersonal\ModuloPersonal\bin\Debug\MySql.Data.xml
+c:\users\carlos reyes\documents\visual studio 2015\Projects\ModuloPersonal\ModuloPersonal\obj\Debug\ModuloPersonal.exe
+c:\users\carlos reyes\documents\visual studio 2015\Projects\ModuloPersonal\ModuloPersonal\obj\Debug\ModuloPersonal.pdb
+c:\users\carlos reyes\documents\visual studio 2015\Projects\ModuloPersonal\ModuloPersonal\obj\Debug\ModuloPersonal.VentanaFolio.resources
+c:\users\carlos reyes\documents\visual studio 2015\Projects\ModuloPersonal\ModuloPersonal\obj\Debug\ModuloPersonal.VentanaDetalleFolio.resources
+C:\Users\Carlos Reyes\Documents\Visual Studio 2015\Projects\ModuloPersonal\ModuloPersonal\obj\Debug\ModuloPersonal.VentanaHabitaciones.resources
+C:\Users\Carlos Reyes\Documents\Visual Studio 2015\Projects\ModuloPersonal\ModuloPersonal\obj\Debug\ModuloPersonal.ReporteHabitacion.resources
+C:\Users\Carlos Reyes\Desktop\Seguridad\Folio\ModuloPersonal\ModuloPersonal\bin\Debug\ModuloPersonal.exe.config
+C:\Users\Carlos Reyes\Desktop\Seguridad\Folio\ModuloPersonal\ModuloPersonal\obj\Debug\ModuloPersonal.exe
+C:\Users\Carlos Reyes\Desktop\Seguridad\Folio\ModuloPersonal\ModuloPersonal\obj\Debug\ModuloPersonal.pdb
+C:\Users\Carlos Reyes\Desktop\Seguridad\Folio\ModuloPersonal\ModuloPersonal\bin\Debug\ModuloPersonal.exe
+C:\Users\Carlos Reyes\Desktop\Seguridad\Folio\ModuloPersonal\ModuloPersonal\bin\Debug\ModuloPersonal.pdb
+C:\Users\Carlos Reyes\Desktop\Seguridad\Folio\ModuloPersonal\ModuloPersonal\bin\Debug\MySql.Data.dll
+C:\Users\Carlos Reyes\Desktop\Seguridad\Folio\ModuloPersonal\ModuloPersonal\bin\Debug\MySql.Data.xml
+C:\Users\Carlos Reyes\Desktop\Seguridad\Folio\ModuloPersonal\ModuloPersonal\obj\Debug\ModuloPersonal.csprojResolveAssemblyReference.cache
+C:\Users\Carlos Reyes\Desktop\Seguridad\Folio\ModuloPersonal\ModuloPersonal\obj\Debug\ModuloPersonal.Form1.resources
+C:\Users\Carlos Reyes\Desktop\Seguridad\Folio\ModuloPersonal\ModuloPersonal\obj\Debug\ModuloPersonal.Properties.Resources.resources
+C:\Users\Carlos Reyes\Desktop\Seguridad\Folio\ModuloPersonal\ModuloPersonal\obj\Debug\ModuloPersonal.ReporteHabitacion.resources
+C:\Users\Carlos Reyes\Desktop\Seguridad\Folio\ModuloPersonal\ModuloPersonal\obj\Debug\ModuloPersonal.VentanaDetalleFolio.resources
+C:\Users\Carlos Reyes\Desktop\Seguridad\Folio\ModuloPersonal\ModuloPersonal\obj\Debug\ModuloPersonal.VentanaFolio.resources
+C:\Users\Carlos Reyes\Desktop\Seguridad\Folio\ModuloPersonal\ModuloPersonal\obj\Debug\ModuloPersonal.VentanaHabitaciones.resources
+C:\Users\Carlos Reyes\Desktop\Seguridad\Folio\ModuloPersonal\ModuloPersonal\obj\Debug\ModuloPersonal.VentanaReservaciones.resources
+C:\Users\Carlos Reyes\Desktop\Seguridad\Folio\ModuloPersonal\ModuloPersonal\obj\Debug\ModuloPersonal.csproj.GenerateResource.Cache
